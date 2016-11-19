@@ -1,3 +1,11 @@
+
+Update: Animations with ReactTransitionGroup and Velocity
+=====================
+
+The ReactCssTransitionGroup was replaced by ReactTransitionGroup and the animation is
+being done by Velocity. 
+
+
 React Router Examples
 =====================
 
